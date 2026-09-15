@@ -6,13 +6,13 @@
 > [!NOTE]
 > 本仓库是 [sadjow/claude-code-nix](https://github.com/sadjow/claude-code-nix)
 > 的替代来源。**日常使用请优先选择原仓库**——它跟踪上游及时、用户面广；
-> 只有当原仓库的取件渠道在你的环境下确实不可行时，再切换到本仓库。
+> 只有当原仓库的下载源在你的环境下确实不可用时，再切换到本仓库。
 
 ## 与原仓库的差异
 
-差异只在取件环节，打包产物完全一致：
+差异只在下载源，打包产物完全一致：
 
-- 取件优先走 npmmirror registry 镜像，registry.npmjs.org 兜底。
+- 下载优先走 npmmirror registry 镜像，registry.npmjs.org 兜底。
   两个源的 tarball 字节相同（`dist.integrity` 一致），固定输出哈希相同。
 - `hashes.json` 固定最新稳定版及各平台 tarball 的 sha512 integrity，
   由 GitHub Action 每天 4 次自动刷新（`scripts/update.py`），
