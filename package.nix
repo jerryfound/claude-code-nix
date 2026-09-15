@@ -7,8 +7,7 @@
 #
 # The npm registry mirror at npmmirror.com serves byte-identical
 # tarballs (same dist.integrity), so it is listed as the primary fetch
-# URL — it is dramatically faster from mainland China — with the
-# canonical npmjs.org URL as fallback.
+# URL, with the canonical npmjs.org URL as fallback.
 
 { lib
 , stdenv
