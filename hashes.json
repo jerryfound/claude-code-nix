@@ -1,0 +1,21 @@
+{
+  "platforms": {
+    "darwin-arm64": {
+      "hash": "sha512-l3CI1gPSCGkWNbAnX66SbDF4uFBecCCLu9FLN43JSbMMds5cb6tjOTBMSTr1ydZRZALW9AC/PYabtQOgXIbK5Q==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.272.tgz"
+    },
+    "darwin-x64": {
+      "hash": "sha512-ejcezmomY6iSZFd9O5ScyrHGx3iAjSn17pR0SxSzGAC2gDgMYT3dpNS2ZXzXwrfAEJE+5lIQATb8h4jW7iDZwA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.272.tgz"
+    },
+    "linux-arm64": {
+      "hash": "sha512-tpUGL+bDziPYaBplXrR018NdSE191nNvQGDHv9QluLB7u4h3t4iRSVnZ8e2KVJerAkER7JeS76sdRGoMPRSIfA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.272.tgz"
+    },
+    "linux-x64": {
+      "hash": "sha512-QXxOsStovQPz5+hWTQMK7yb4YZFT2mXhu4ejF4nCXHcsbBEBq/jfLWr9SNJCdD4NjD9o4XxjJrDrrdKOM1Kw8g==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.272.tgz"
+    }
+  },
+  "version": "2.1.272"
+}
