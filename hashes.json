@@ -1,21 +1,21 @@
 {
   "platforms": {
     "darwin-arm64": {
-      "hash": "sha512-/rlrB+1ovRPWuLYNpuOvWY4dGOGyanW008KeHST6ZjOVfEFBFyqqFJiBaRpDNy5LdlnozZZYWUoMWr8W0KXyEg==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.274.tgz"
+      "hash": "sha512-JchRlXfYFrHGjm7fTZpWzlDvaP67SSO2yx2yFQSxt/T57mC6ickpApiuvS5jHCia6qjwzgjuzWSkemfLYaxB7w==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.276.tgz"
     },
     "darwin-x64": {
-      "hash": "sha512-zFcxR5XfroaBmWy2HX8fZ/e/kpAQ4GPIz+cAQMq55SAHP4UorpxQj/upplfvfDC3lSKFfYBDhhSXBs99fKkjJw==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.274.tgz"
+      "hash": "sha512-7LBOcz1A5cqbQ9z363R5YjnsNvZCDAztV8/zOXM3i0PM7nHDrG3blYoZPDal54uPiovGCPVsa+bEuj+kbSZPYA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.276.tgz"
     },
     "linux-arm64": {
-      "hash": "sha512-6cCEg5z4awB1i8H1vRMRqLCV9a6rSSzsXXJTpBE2Nte29NMJ2B49PwRcGvdMASYWOmMNgO6ErYQ6ckuQSeSo/g==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.274.tgz"
+      "hash": "sha512-/wzWD8U5mGmSoeiB99gGfvVuj/7/p7nh/zZACTuuPEwvo/CfMMvW/ZxBB6LG8w0nz6B//UOIx3ryKdGCENAPOA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.276.tgz"
     },
     "linux-x64": {
-      "hash": "sha512-xiC1514UgW1aRvHOtfgUVUACWtOwm42TIeQlllHFAMFLrBYy+cG+MfSTlTYnjUPpu4zmUeEDEs2VdZL/iLIwGQ==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.274.tgz"
+      "hash": "sha512-xFhD9UyIVKWLEQjcFg1ynSmYPpiXSdyN9+9rtrM0aIVnSqFP15Hd5/owEf7N6JrHtAXijfxDC0usXFxAOJQ1vA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.276.tgz"
     }
   },
-  "version": "2.1.274"
+  "version": "2.1.276"
 }
