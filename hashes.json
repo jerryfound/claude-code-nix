@@ -1,21 +1,21 @@
 {
   "platforms": {
     "darwin-arm64": {
-      "hash": "sha512-io7hBh98nUB3wTzg+XKoh2pN4j71w155wj2jAoF9bwWrnT7u6gcm9vTh0geArjABGNSh2+GaApa+lYREWOOwxw==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.304.tgz"
+      "hash": "sha512-sP2WMFZ7LJgrPYKCDa2M1Dfy6cDuwrKPRkVPmDiSRhaqd3qBfQc3a8eZov5oYyqk+lSo7HsTGXxr57cbeVqcpA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.305.tgz"
     },
     "darwin-x64": {
-      "hash": "sha512-og+GudUxBNKFVHZiKkDO3ESrlpdA2JDVanj0BJB0fgOhyt3eU2BZPOxpW+IG6lL/jtkrr85n3MGhd7mQ/nmgfg==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.304.tgz"
+      "hash": "sha512-OTxyXmFDuwjw4UjVqLIkhMQ2QOaHbF76Wb5zQZCpvG7W14YPwn8yReHNMVrzR0ZPm8sdIu9mKyXrXkk7EnEl7A==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.305.tgz"
     },
     "linux-arm64": {
-      "hash": "sha512-iS+JKciRosAtrrgb1UkD7h8f/8olkeVA+4aK6aeb9LkLGZ1d6ME6CQxpbUO56QGR/2oPJt0QgDv7MWwRNlwd7A==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.304.tgz"
+      "hash": "sha512-9KDlF+h6Sy5R93jFTnnFPbP4VDH6paMXS6Z22u+KOJSbBnYOsOfyqYPBEFvBKP+SDrtwR+kFHWGi/nfBfj7cUw==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.305.tgz"
     },
     "linux-x64": {
-      "hash": "sha512-yZ/zZk3y7e0zbkMs740y9Z+bs40MmWApwM9qHQ8Adis01SycQlyaZnHYhB/+UOeFJcL+hzbiIGCIyuTKyL2U7Q==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.304.tgz"
+      "hash": "sha512-gG/5OXycV1ItO1cHGo3IzVWb2XR5EE/0j4vzMv8iEbXWc5NWAlK2mxr1tIrfRBOoFFaZZIj76IpQk4x0NdsqCA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.305.tgz"
     }
   },
-  "version": "2.1.304"
+  "version": "2.1.305"
 }
