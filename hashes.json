@@ -1,21 +1,21 @@
 {
   "platforms": {
     "darwin-arm64": {
-      "hash": "sha512-BIKLsj2MTaXfWJBE+Wr5ismdpTD0Oju5VmSix8ybBpe4rthXnrrhfMI8iikRQ4Qln5rlcpJyKjVf6CgrZdQASw==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.328.tgz"
+      "hash": "sha512-brgS94FOoB+ekq1gIeNpBtGAbzWxE1UEeBQWfk1KX1BStrMIxwWXriPfQLKEkFTWHpmGXv2fZxxMQJsR+5PhZw==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-arm64/-/claude-code-darwin-arm64-2.1.329.tgz"
     },
     "darwin-x64": {
-      "hash": "sha512-SuFIh/OGu/qCCAw9aGldbpcu1OZMozDjZVZGfM6T8Cek+40Lg2fOpB9NHKi71nPHOznjn01xLuZ2HuZboodn6A==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.328.tgz"
+      "hash": "sha512-6cjJiD19yxOzdnzErJ8ougFKoksK/wUvOJb6V2iCXg1rM9gGEY1I7HE8jQnvh6buAuXHtHaahfoiiISaplOxYg==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-darwin-x64/-/claude-code-darwin-x64-2.1.329.tgz"
     },
     "linux-arm64": {
-      "hash": "sha512-zeWsClzx/rli8q6RsngKisu5BnuZ41J7Htp0qgsdZomaJCINiksf+mewQ/gyaylKajBZCoE9Z8R+OkLMjIkJig==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.328.tgz"
+      "hash": "sha512-IiG5umFToSCVWqB1lEsxxwIxKgxPXyZ3DRU915v8J4Bz5Q3JpslM0ew1m5yaT+lFXBPvYxmsEgi0XI68XHND0A==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-arm64/-/claude-code-linux-arm64-2.1.329.tgz"
     },
     "linux-x64": {
-      "hash": "sha512-KuzL+dBHgDCFTHJxwW+xuBJdVKfBsesGx2BBcTOG9sYDGoAD7b1hUV8rsTS4xjoJsB2SmeGraGjBiFuhrYuC9w==",
-      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.328.tgz"
+      "hash": "sha512-+n4lu1ubYAp02Y0X/MAUnxw9yY6SHHZ77F+IoW+V0wVoFuiI9opdH6gofjf14gXJCEYMTNpks7Gn1i8XZTKAWA==",
+      "url": "https://registry.npmjs.org/@anthropic-ai/claude-code-linux-x64/-/claude-code-linux-x64-2.1.329.tgz"
     }
   },
-  "version": "2.1.328"
+  "version": "2.1.329"
 }
